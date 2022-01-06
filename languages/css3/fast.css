@@ -50,13 +50,21 @@
     
        
 .make{background:linear-gradient(rgba(24, 56, 24, 0.123),rgba(255, 0, 0, 0.356)),url(../../media/image/hero-bg5.jpg);
-      height:301px;background-repeat: no-repeat;margin-top:40px;
-      background-size:contain;}
+      height:280px;background-repeat: no-repeat;margin-top:40px;
+      background-size:contain;border: solid black 1px;
+      border-bottom:solid 1px red ;}
 .make b{font-family: 'Licorice', cursive;
     font-family: 'Lobster', cursive;
     font-family: 'Mea Culpa', cursive;
     font-family: 'Moon Dance', cursive;
-    font-family: 'Playfair Display', serif;}                  
+    font-family: 'Playfair Display', serif;
+    color:rgb(245, 57, 82);font-size: 30px;
+     text-decoration: initial;text-align:center;
+     margin-bottom:40px ;
+     }
+.make a{background-color: green;text-decoration: none;
+        padding: 0px 40px 2px 40px;font-size: 40px;
+        color:white;border-radius: 5px;margin:50px 0px 0px 40px;border: 1px rgb(51, 20, 20) solid;}                       
 
 
  .footer{background-color: #0B0D17;height:190px;
