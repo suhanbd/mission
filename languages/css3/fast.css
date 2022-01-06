@@ -1,0 +1,68 @@
+.start{background-color:white;
+       height: 280px;display: flex;}
+.person1{width:200px;}
+.start span{color:#632AB2;}
+.start h1{border-left: solid rgb(128, 51, 0) 4px;}
+.button1{text-decoration: none;
+         background-color: green;
+        color: white;
+        padding: 7px 14px 7px 14px;
+        border-radius: 5px;}
+.start i{margin-top: 10px;}        
+
+/******************************************************************************/
+.mymission{background-color:white;
+            height: 250px;display: flex;
+            margin: 4px;} 
+.mymiss span{color:red;}
+.mymiss{text-align: center;font-family: arial;}
+.mymission span{color:orange}
+
+.box1{background-color: rgb(13, 197, 197);border-radius: 10px;
+      margin-right: 10px;}
+.box2{background-color: rosybrown;border-radius: 10px;
+      margin-right: 10px;}
+.box3{background-color: rgb(184, 117, 172);border-radius: 10px;
+       margin-right: 4px;}
+
+.box1 img{width: 110px;}
+.box2 img{width: 100px;}
+.box3 img{width: 100px;}
+
+/**********************************************************************/
+.develop{background-color:white;
+          height: 260px;display: flex;}            
+ .develop img{width: 200px;margin: 30px 20px 0px 40px;}
+ .develop a{text-decoration:none;background-color: red;
+             padding: 8px 28px 8px 28px;
+            border-radius: 5px;}
+          
+
+.plne{background-color:white;
+      height:240px;display: flex;
+      padding:20px;}
+.plne a{text-decoration: none;
+       background-color: #632AB2;
+       color: red;font-size:20px;
+        padding: 6px 39px 6px 39px;
+       border-radius: 8px;} 
+.plne img{width: 170px;margin-top:25px;}  
+    
+       
+.make{background:linear-gradient(rgba(24, 56, 24, 0.123),rgba(255, 0, 0, 0.356)),url(../../media/image/hero-bg5.jpg);
+      height:301px;background-repeat: no-repeat;margin-top:40px;
+      background-size:contain;}
+.make b{font-family: 'Licorice', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Mea Culpa', cursive;
+    font-family: 'Moon Dance', cursive;
+    font-family: 'Playfair Display', serif;}                  
+
+
+ .footer{background-color: #0B0D17;height:190px;
+    color: rgb(255, 255, 255);text-align: center;
+    margin-bottom:-10px;}
+ .footer span{color:red}
+ .text{padding-top:50px;}
+ .text b{font-size: 45px;} 
+ .text p{color: rgba(240, 248, 255, 0.63);}    
