@@ -55,18 +55,20 @@
       border-bottom:solid 1px red ;}
 .make b{font-family: 'Licorice', cursive;
     font-family: 'Lobster', cursive;
-    font-family: 'Mea Culpa', cursive;
-    font-family: 'Moon Dance', cursive;
-    font-family: 'Playfair Display', serif;
-    color:rgb(245, 57, 82);font-size: 30px;
+      color:rgba(44, 39, 39, 0.719);font-size:25px;
      text-decoration: initial;text-align:center;
-     margin-bottom:40px ;
+     margin-bottom:40px ;font-weight: 100;
+     margin-bottom:px;
      }
-.make a{background-color: green;text-decoration: none;
-        padding: 0px 40px 2px 40px;font-size: 40px;
-        color:white;border-radius: 5px;margin:50px 0px 0px 40px;border: 1px rgb(51, 20, 20) solid;}                       
+a{text-decoration: none;
+  border: 1px solid rgb(97, 74, 74);
+  border-radius: 10px;
+  background-color: black;
+  padding: 10px;
+  margin:px;
 
 
+}
  .footer{background-color: #0B0D17;height:190px;
     color: rgb(255, 255, 255);text-align: center;
     margin-bottom:-10px;}
